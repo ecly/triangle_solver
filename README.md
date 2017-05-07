@@ -1,1 +1,1 @@
-![](example.png?raw=true "example.png")
+![](example.PNG?raw=true "example.PNG")
