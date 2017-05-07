@@ -1,0 +1,143 @@
+@charset "UTF-8";
+
+#content {
+	border: 2px solid;
+	border-radius: 25px;
+	-moz-border-radius: 25px;
+	-webkit-border-radius: 25px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 15px;
+	background-color: rgb(186,186,186);
+	text-align: center;
+	position: relative;
+}
+
+#wmark {
+	height: 15px;
+	width: auto;
+	top: 50px;
+	opacity: 0.4;
+	font-size: 15px;
+	font-family: Garamond;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 2px;
+	text-align: center;
+}
+
+#rettriinstruction{
+	position: absolute;
+	width: 150px;
+	text-align:left;
+	left:35px;
+	top: 113px;
+	font-family: Garamond;
+}
+
+#triinstruction{
+	position: absolute;
+	width: 150px;
+	text-align:left;
+	left: 648px;
+	top: 113px;
+	font-family: Garamond;
+}
+
+#triangle {
+	border: 2px solid;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#rettriangle {
+	border: 2px solid;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#inputrettri {
+	display: inline-block;
+	left: 5px;
+	position: absolute;
+	top: 149px;
+}
+
+#inputtri {
+	display: inline-block;
+	right: 5px;
+	position: absolute;
+	top: 149px;
+}
+
+#output {
+	border: 2px solid;
+	border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 10px;
+	padding-left: 10px;
+	text-align: left;
+	font-family: Garamond;
+	vertical-align: middle;
+}
+
+h2 {
+	font-family: Garamond;
+	margin: 0;
+    padding: 5px;
+}
+
+img {
+	width: 200px;
+	height: auto;
+	margin: 0;
+    padding: 0;
+	}
+
+.button {
+	position: relative;
+	margin-top:5px;
+	left:10px;
+	width: 74px;
+	height: 25px;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #006;
+	font-family: Garamond;
+	font-size: 15px;
+}
+
+.button:hover {
+	background: #ffffff;
+	cursor: pointer;
+}
+
+.input {
+    border: 1px solid #006;
+    background: #ffc;
+	margin-top: 6px;
+	padding-left: 2px;
+
+}
+
+.input:hover {
+	background: #eef;
+	border: 1px solid #000;
+}
+
+label {
+	display: inline-block;
+    margin: 0;
+	padding: 0;
+	font-family: Garamond;
+	width: 21px;
+}
+
